@@ -1,13 +1,14 @@
 # wars-pit-plugin
 
 ## Description
-Project wars-pit-plugin
+"PIT plugin for WaRs". Integrates Portal Interface Types (PIT) with the `wars` runtime/compiler.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Support PIT in WaRs
+- [ ] Bridge types
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
